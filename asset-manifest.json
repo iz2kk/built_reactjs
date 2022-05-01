@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bd7947a4.css",
+    "main.js": "/static/js/main.6c0a03e3.js",
+    "static/media/favico.jpeg": "/static/media/favico.c552ed26f404c4da14ee.jpeg",
+    "index.html": "/index.html",
+    "main.bd7947a4.css.map": "/static/css/main.bd7947a4.css.map",
+    "main.6c0a03e3.js.map": "/static/js/main.6c0a03e3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd7947a4.css",
+    "static/js/main.6c0a03e3.js"
+  ]
+}
