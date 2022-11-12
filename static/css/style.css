@@ -52443,8 +52443,7 @@ ul {
 .cate-item:after {
   content: "\f0da";
   display: inline-block;
-  font-family: Font Awesome\5 Pro;
-  font-family: var(--awsome-font);
+  font-family: "Font Awesome\5 Pro";
   font-size: 16px;
   padding: 3px;
 }
