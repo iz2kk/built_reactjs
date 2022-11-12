@@ -8292,13 +8292,13 @@
   font-family: Font Awesome\5 Brands;
   font-style: normal;
   font-weight: 400;
-  src: url(/static/media/fa-brands-400.2ac0cbf0ae3aa5e15f77.eot);
-  src: url(/static/media/fa-brands-400.2ac0cbf0ae3aa5e15f77.eot?#iefix)
+  src: url(https://cdn.jsdelivr.net/gh/iz2kk/built_reactjs@izivideo-published/static/media/fa-brands-400.2ac0cbf0ae3aa5e15f77.eot);
+  src: url(https://cdn.jsdelivr.net/gh/iz2kk/built_reactjs@izivideo-published/static/media/fa-brands-400.2ac0cbf0ae3aa5e15f77.eot?#iefix)
       format("embedded-opentype"),
-    url(/static/media/fa-brands-400.df56145e6ac7861a1c0a.woff2) format("woff2"),
-    url(/static/media/fa-brands-400.92ee10240bc7f84042de.woff) format("woff"),
-    url(/static/media/fa-brands-400.aa21aa27a6be24f99e40.ttf) format("truetype"),
-    url(/static/media/fa-brands-400.363e840666219cf3436e.svg#fontawesome)
+    url(https://cdn.jsdelivr.net/gh/iz2kk/built_reactjs@izivideo-published/static/media/fa-brands-400.df56145e6ac7861a1c0a.woff2) format("woff2"),
+    url(https://cdn.jsdelivr.net/gh/iz2kk/built_reactjs@izivideo-published/static/media/fa-brands-400.92ee10240bc7f84042de.woff) format("woff"),
+    url(https://cdn.jsdelivr.net/gh/iz2kk/built_reactjs@izivideo-published/static/media/fa-brands-400.aa21aa27a6be24f99e40.ttf) format("truetype"),
+    url(https://cdn.jsdelivr.net/gh/iz2kk/built_reactjs@izivideo-published/static/media/fa-brands-400.363e840666219cf3436e.svg#fontawesome)
       format("svg");
 }
 .fab {
@@ -8310,14 +8310,14 @@
   font-family: Font Awesome\5 Duotone;
   font-style: normal;
   font-weight: 900;
-  src: url(/static/media/fa-duotone-900.8c456be8af278cd56934.eot);
-  src: url(/static/media/fa-duotone-900.8c456be8af278cd56934.eot?#iefix)
+  src: url(https://cdn.jsdelivr.net/gh/iz2kk/built_reactjs@izivideo-published/static/media/fa-duotone-900.8c456be8af278cd56934.eot);
+  src: url(https://cdn.jsdelivr.net/gh/iz2kk/built_reactjs@izivideo-published/static/media/fa-duotone-900.8c456be8af278cd56934.eot?#iefix)
       format("embedded-opentype"),
-    url(/static/media/fa-duotone-900.ba609dbee69bb7ea5f84.woff2) format("woff2"),
-    url(/static/media/fa-duotone-900.bec1e8c8305076901a85.woff) format("woff"),
-    url(/static/media/fa-duotone-900.3785dc4992830f749773.ttf)
+    url(https://cdn.jsdelivr.net/gh/iz2kk/built_reactjs@izivideo-published/static/media/fa-duotone-900.ba609dbee69bb7ea5f84.woff2) format("woff2"),
+    url(https://cdn.jsdelivr.net/gh/iz2kk/built_reactjs@izivideo-published/static/media/fa-duotone-900.bec1e8c8305076901a85.woff) format("woff"),
+    url(https://cdn.jsdelivr.net/gh/iz2kk/built_reactjs@izivideo-published/static/media/fa-duotone-900.3785dc4992830f749773.ttf)
       format("truetype"),
-    url(/static/media/fa-duotone-900.906b0b52d7b4e504b630.svg#fontawesome)
+    url(https://cdn.jsdelivr.net/gh/iz2kk/built_reactjs@izivideo-published/static/media/fa-duotone-900.906b0b52d7b4e504b630.svg#fontawesome)
       format("svg");
 }
 .fad {
@@ -13942,12 +13942,12 @@
   font-family: Font Awesome\5 Pro;
   font-style: normal;
   font-weight: 400;
-  src: url(/static/media/fa-regular-400.1c9c47c2e74e9e4a5d07.eot);
-  src: url(/static/media/fa-regular-400.1c9c47c2e74e9e4a5d07.eot?#iefix)
+  src: url(https://cdn.jsdelivr.net/gh/iz2kk/built_reactjs@izivideo-published/static/media/fa-regular-400.1c9c47c2e74e9e4a5d07.eot);
+  src: url(https://cdn.jsdelivr.net/gh/iz2kk/built_reactjs@izivideo-published/static/media/fa-regular-400.1c9c47c2e74e9e4a5d07.eot?#iefix)
       format("embedded-opentype"),
-    url(/static/media/fa-regular-400.33904a1b964c9b363ce7.woff2) format("woff2"),
-    url(/static/media/fa-regular-400.126e4e16f5400ed7fb99.woff) format("woff"),
-    url(/static/media/fa-regular-400.2e9a4f2704b8d8428494.ttf)
+    url(https://cdn.jsdelivr.net/gh/iz2kk/built_reactjs@izivideo-published/static/media/fa-regular-400.33904a1b964c9b363ce7.woff2) format("woff2"),
+    url(https://cdn.jsdelivr.net/gh/iz2kk/built_reactjs@izivideo-published/static/media/fa-regular-400.126e4e16f5400ed7fb99.woff) format("woff"),
+    url(https://cdn.jsdelivr.net/gh/iz2kk/built_reactjs@izivideo-published/static/media/fa-regular-400.2e9a4f2704b8d8428494.ttf)
       format("truetype"),
     url(/static/media/fa-regular-400.1a812d84040362f3cbe1.svg#fontawesome)
       format("svg");
@@ -13964,13 +13964,13 @@
   font-family: Font Awesome\5 Pro;
   font-style: normal;
   font-weight: 900;
-  src: url(/static/media/fa-solid-900.dcddb714e825d85920df.eot);
-  src: url(/static/media/fa-solid-900.dcddb714e825d85920df.eot?#iefix)
+  src: url(https://cdn.jsdelivr.net/gh/iz2kk/built_reactjs@izivideo-published/static/media/fa-solid-900.dcddb714e825d85920df.eot);
+  src: url(https://cdn.jsdelivr.net/gh/iz2kk/built_reactjs@izivideo-published/static/media/fa-solid-900.dcddb714e825d85920df.eot?#iefix)
       format("embedded-opentype"),
-    url(/static/media/fa-solid-900.54dfc8f551be346014e4.woff2) format("woff2"),
-    url(/static/media/fa-solid-900.6057f0f7f9a9a68b2eed.woff) format("woff"),
-    url(/static/media/fa-solid-900.601a1847bf98e6bf4b94.ttf) format("truetype"),
-    url(/static/media/fa-solid-900.ceb187c9cc886c93094c.svg#fontawesome)
+    url(https://cdn.jsdelivr.net/gh/iz2kk/built_reactjs@izivideo-published/static/media/fa-solid-900.54dfc8f551be346014e4.woff2) format("woff2"),
+    url(https://cdn.jsdelivr.net/gh/iz2kk/built_reactjs@izivideo-published/static/media/fa-solid-900.6057f0f7f9a9a68b2eed.woff) format("woff"),
+    url(https://cdn.jsdelivr.net/gh/iz2kk/built_reactjs@izivideo-published/static/media/fa-solid-900.601a1847bf98e6bf4b94.ttf) format("truetype"),
+    url(https://cdn.jsdelivr.net/gh/iz2kk/built_reactjs@izivideo-published/static/media/fa-solid-900.ceb187c9cc886c93094c.svg#fontawesome)
       format("svg");
 }
 .fa,
