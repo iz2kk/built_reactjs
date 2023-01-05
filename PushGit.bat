@@ -6,3 +6,4 @@ git add *
 git commit -m "%Branch%"
 git checkout -b "%Branch%"
 git push izi "%Branch%"
+pause.
