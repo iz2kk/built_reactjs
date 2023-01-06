@@ -8,7 +8,7 @@ set mytime=%time%
 
 @echo on
 git add *
-git commit -m "%Branch% %mydate% %mytime%"
+git commit -m "%Branch%-%mydate% %mytime%"
 git checkout -b "%Branch%"
 git push izi "%Branch%"
 pause.
