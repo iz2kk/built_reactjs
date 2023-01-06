@@ -13,9 +13,11 @@ git commit -m "%Branch%-%mydate% %mytime%"
 git checkout -b "%Branch%"
 git push izi "%Branch%"
 
-
-set /p command="Nhap Lenh Tai Day"
+@echo off
+set /p command="Nhap Lenh Tai Day: "
 if command == cl(
+	cls
 	goto Repush
+	
 )
 pause.
